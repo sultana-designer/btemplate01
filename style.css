@@ -1,0 +1,60 @@
+
+*{margin: 0;padding: 0;}
+.hlogo img{width: 80px;}
+.hmenu a{color:white;}
+
+.myfirstcarousel{
+	height: 300px;
+	overflow: hidden;
+}
+
+.footer-menu{
+	width: 50%;
+	float: left;
+}
+
+.footer-menu ul{
+	margin-left: 10%;
+	width: 100%;
+	float: left;
+}
+.footer-menu ul li{
+	list-style: none;
+	float: left;
+}
+.footer-menu ul li a{
+	text-decoration: none;
+	float: left;
+	margin-right: 20px;
+	font-size: 20px;
+	display: inline-block;
+	color: black;
+}
+.social-menu{
+	width: 14%;
+	display: inline-block;
+	margin-left: 36%;
+}
+.social-menu ul{
+	list-style-type: none;
+}
+.social-menu ul li{
+	float: left;
+}
+.social-menu ul li span{
+	margin-right: 10px;
+	color: black;
+	font-size: 20px;
+}
+.social-menu ul li a{
+	color: gray;
+	margin-left: 5px;
+	float: left;
+}
+.social-menu ul li a img{
+	width: 20px;
+	height:20px;
+	float: left; 
+}
+	
+
